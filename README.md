@@ -24,6 +24,9 @@ namespace Bio
 
 ```
 
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+
 <h2 align="center">You can reach me at 🌐</h2>
 
 <p align="center">
@@ -77,7 +80,6 @@ namespace Bio
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
 ---
