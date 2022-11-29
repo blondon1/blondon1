@@ -21,8 +21,7 @@ namespace Bio
 			"- ⚡ Quick bio:": "I'm a software engineer who is really interested in machine learning and 
 			cloud computing. I'm currenly working on my associate's degree in computer engineering to then get a 
 			bachelor's degree in computer science",
-			"- ⚽ Hobbies":      "I like playing and watching soccer, reading books, 
-			reading manga(specialy chainsaw man), cars,GOT and breaking bad",
+			"- ⚽ Hobbies":      "I like playing and watching soccer, reading books, reading manga(specialy chainsaw man), cars,GOT and breaking bad",
 			"- 🌱 I’m currently learning":        "Java",
 			"- 🦾I’m looking to collaborate on": "C# / .Net related projects",
 			"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
