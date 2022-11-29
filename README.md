@@ -1,20 +1,15 @@
 # Marlon (Bryan) Londres
 
 <h2 align="center">About me</h2>
-
 ```csharp
 namespace Bio
 {
-
 	public class Main()
 	{
 		var Bio = new Bio.get()
 		return View(Bio);
 	}
-
-
 }
-
 	public class showBio() 
 	{
 	 public string  quick_bio                     =  "⚡I am a software engineer who is really interested in machine learning and cloud computing. I am currenly working on my associate's degree in computer engineering to then get a bachelors degree in computer science",
