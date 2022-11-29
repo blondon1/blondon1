@@ -17,7 +17,7 @@ namespace Bio
 
 	public class showBio() 
 	{
-			var hey = "-⚡ Quick bio:": "I am a software engineer who is really interested in machine learning and 
+			public string quick_bio "⚡I am a software engineer who is really interested in machine learning and 
 			cloud computing. I am currenly working on my associate's degree in computer engineering to then get a 
 			bachelors degree in computer science"
 			"- ⚽ Hobbies":      "I like playing and watching soccer, reading books, reading manga(specialy chainsaw man), cars,GOT and breaking bad",
