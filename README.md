@@ -17,13 +17,13 @@ namespace Bio
 
 	public class showBio() 
 	{
-	 public string quick_bio                      =  "⚡I am a software engineer who is really interested in machine learning and cloud computing. I am currenly working on my associate's degree in computer engineering to then get a bachelors degree in computer science"
-	 public string Hobbies                        =  "⚽I like playing and watching soccer, reading books, reading manga(specialy chainsaw man), cars,GOT and breaking bad"
+	 public string quick_bio                      =  "⚡I am a software engineer who is really interested in machine learning and cloud computing. I am currenly working on my associate's degree in computer engineering to then get a bachelors degree in computer science",
+	 public string Hobbies                        =  "⚽I like playing and watching soccer, reading books, reading manga(specialy chainsaw man), cars,GOT and breaking bad",
 	 public string  Iam_currently_learning        =  "🌱Java",
-	 public string Iam_looking_to_collaborate_on  =  "🦾C# / .Net related projects"
-	 public string  Iam_looking_for_help_with     =  "🤔Anything related to what I am currently learning 😅"
-	 public string  Ask_me_about                  =  "💬C#, Python, Leetcode and Web-Dev"
-	 public string  How_to_reach_me               =  "📫bryanlondres10@gmail.com"
+	 public string Iam_looking_to_collaborate_on  =  "🦾C# / .Net related projects",
+	 public string  Iam_looking_for_help_with     =  "🤔Anything related to what I am currently learning 😅",
+	 public string  Ask_me_about                  =  "💬C#, Python, Leetcode and Web-Dev",
+	 public string  How_to_reach_me               =  "📫bryanlondres10@gmail.com",
 	}
 }
 
