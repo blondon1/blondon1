@@ -10,7 +10,6 @@ namespace Bio
 		var Bio = new Bio.get()
 		return View(Bio);
 	}
-}
 	public class showBio() 
 	{
 	 public string  Quick_bio                     =  "⚡I am a software engineer who is really interested in machine learning and cloud computing. I am currenly working on my associate's degree in computer engineering to then get a bachelors degree in computer science",
