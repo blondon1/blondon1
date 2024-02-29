@@ -12,10 +12,6 @@ namespace Bio
 	}
 	public class showBio() 
 	{
-	 public string  Quick_bio                     =  "⚡I am a software engineer who's really interested in machine learning and cloud computing",
-	 public string  Iam_currently_learning        =  "🌱Java",
-	 public string  Iam_looking_to_collaborate_on =  "🦾C# / .Net related projects / React / java / python / web development / cloud computing ...",
-	 public string  Iam_looking_for_help_with     =  "🤔Anything related to what I am currently learning 😅",
 	 public string  How_to_reach_me               =  "📫bryanlondres5@gmail.com",
 	}
 }
@@ -58,7 +54,7 @@ namespace Bio
   </a>
 </p>
 
-<h2 align="center">My stack :man_technologist:</h2>
+
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
