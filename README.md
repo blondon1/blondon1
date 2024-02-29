@@ -25,32 +25,11 @@ namespace Bio
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/marlon-londres-722124234/">
+  <a href="https://www.linkedin.com/in/bryan-londres-722124234/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackoverflow.com/users/18703058/bryan-londres">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
-  </a>
-
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
-  </a>
-
-  <a href="">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
-  </a>
-  
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
-  </a>
-  
+  </a>  
   <a href="https://medium.com/@bryan.londres">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
-  </a>
-  
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Bryan Londres's Medium Profile" height="30" width="30">
   </a>
 </p>
 
