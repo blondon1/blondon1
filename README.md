@@ -57,12 +57,10 @@ namespace Bio
   </a>
 </p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
 
 
 
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
 
 
 
