@@ -5,16 +5,31 @@
 ```csharp
 namespace Bio
 {
-	public class Main()
-	{
-		var Bio = new Bio.get()
-		return View(Bio);
-	}
-	public class showBio() 
-	{
-	 public string  How_to_reach_me               =  "📫bryanlondres5@gmail.com",
-	}
+    public class Main
+    {
+        public static void Main(string[] args)
+        {
+            var bio = new ShowBio();
+            Console.WriteLine(bio.Display());
+        }
+    }
+
+    public class ShowBio
+    {
+        public string Name { get; set; } = "Bryan Londres";
+        public string Education { get; set; } = "Junior Computer Science student at Florida International University";
+        public string Experience { get; set; } = "Full Stack Software Engineer at TD | Former Software Engineer at INMYTEAM";
+        public string Summary { get; set; } = "Passionate about building software to simplify everyday tasks, enhance productivity, and create enjoyable user experiences. Experienced in implementing DevOps practices, developing enterprise applications, and collaborating in Agile/Scrum environments.";
+        public string Skills { get; set; } = "C#, .NET, ASP.NET, SQL, Cryptography, Encryption";
+        public string Contact { get; set; } = "📫 bryanlondres5@gmail.com | www.linkedin.com/in/bryan-londres-722124234 | blondon1.github.io/";
+
+        public string Display()
+        {
+            return $"Name: {Name}\nEducation: {Education}\nExperience: {Experience}\nSummary: {Summary}\nSkills: {Skills}\nContact: {Contact}";
+        }
+    }
 }
+
 
 ```
 
