@@ -7,7 +7,7 @@ I'm a passionate **Software Developer** with a love for robotics, hardware engin
 
 - 🔭 I’m currently working on: **Various robotics and AI experiments**
 - 🌱 I’m currently learning: **Robotics and deep neural networks**
-- 👯 I’m looking to collaborate on: **Robotics projects**
+- 🤝 I’m looking to collaborate on: **Robotics projects**
 - 💬 Ask me about: **Robotics, AI, embedded systems, and performance-sensitive programming in Python and C++**
 - ⚡ Fun fact: **I'm incredibly passionate about robotics and always exploring new tech challenges**
 
