@@ -14,7 +14,7 @@ I'm a passionate **Software Developer** with a love for robotics, hardware engin
 ---
 
 ## 🚀 Skills & Tools
-Here are some of the technologies I work with:
+Here are some of the technologies I'm currently working with:
 - **Programming Languages:** Python 🐍, C++ 💻
 - **Hardware & Robotics:** Raspberry Pi 🍓, Arduino ⚙️, embedded systems
 - **AI & Machine Learning:** Deep neural networks, OpenAI GPT-4 vision capabilities
