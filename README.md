@@ -16,6 +16,7 @@ I’m **Bryan**, a Full Stack Engineer based in Miami, FL. Currently completing 
 ---
 
 **Fun Facts:**
-- I enjoy breaking down complex storyboards and pacing techniques in Japanese media to understand how they influence global storytelling.
+- I enjoy breaking down complex storyboards and pacing techniques in Japanese media to understand how they were influenced by global storytelling.
 - **Hobbies:** Mentoring, Watching european football, Cycling, Hiking, Anime and Manga.
+
 
