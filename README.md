@@ -16,5 +16,6 @@ I’m **Bryan**, a Full Stack Engineer based in Miami, FL. Currently completing 
 ---
 
 **Fun Facts:**
-- I actively analyze narrative structures in manga, specifically contrasting modern pacing techniques with classic methodologies like Osamu Tezuka's. 
+- I enjoy breaking down complex storyboards and pacing techniques in Japanese media to understand how they influence global storytelling.
 - **Hobbies:** Mentoring, Watching european football, Cycling, Hiking, Anime and Manga.
+
