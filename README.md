@@ -16,7 +16,9 @@ I’m **Bryan**, a Full Stack Engineer based in Miami, FL. Currently completing 
 ---
 
 **Fun Facts:**
+- I have a deep-seated fascination with neuroplasticity and the biological mechanisms that allow the human brain to physically rewire itself in response to new challenges.
 - I enjoy breaking down complex storyboards and pacing techniques in Japanese media to understand how they were influenced by global storytelling.
 - **Hobbies:** Mentoring, Watching european football, Cycling, Hiking, Anime and Manga.
+
 
 
