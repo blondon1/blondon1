@@ -10,8 +10,7 @@ I’m **Bryan**, a Full Stack Engineer based in Miami, FL. Currently completing 
 
 **Some stuff I built:**
 - [Procedural Neural Morphology Simulator](https://github.com/blondon1/Procedural-Neuron-OpenGL) - A C++/OpenGL 2D biological neuron generator manipulating CPU-side procedural generation and GPU-side pixel obfuscation.
-- [LibraryHub](https://github.com/blondon1/LibraryHub/) - An enterprise-level e-commerce application built with ASP.NET 6, Entity Framework Core, and SQL Server, fully deployed on Azure.
-- [AI-Driven Smart Robot](https://github.com/blondon1/ai-driven-robot) - A voice and vision-enabled Raspberry Pi robot utilizing GPT-4o Vision, featuring a Mecanum-wheel chassis and custom C++ shared libraries for L298N motor control.
+- [AI-Driven Smart Robot](https://github.com/blondon1/GPT-Hardware-Bridge) - A voice and vision-enabled Raspberry Pi robot utilizing GPT-4o Vision, featuring a Mecanum-wheel chassis and custom C++ shared libraries for L298N motor control.
 
 ---
 
@@ -19,6 +18,7 @@ I’m **Bryan**, a Full Stack Engineer based in Miami, FL. Currently completing 
 - I have a deep-seated fascination with neuroplasticity and the biological mechanisms that allow the human brain to physically rewire itself in response to new challenges.
 - I enjoy breaking down complex storyboards and pacing techniques in Japanese media to understand how they were influenced by global storytelling.
 - **Hobbies:** Mentoring, Watching european football, Cycling, Hiking, Anime and Manga.
+
 
 
 
